@@ -1,1 +1,1 @@
-# CEFR_MARKS_1_CZ
+# Calculator of CEFR marks (A-F) from numbers and arithmetic diameter
